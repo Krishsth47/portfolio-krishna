@@ -1,0 +1,23 @@
+.wrapper {
+  background: linear-gradient(rgb(59, 69, 23), rgb(154, 154, 154));
+  min-height: 100vh;
+}
+.section-title {
+  font-size: 3rem;
+  border-bottom: 5px solid var(--secondary);
+  width: 250px;
+  margin: 5rem auto;
+  text-align: center;
+}
+
+.skill-list i {
+  font-size: 2rem;
+}
+
+.project-section {
+  background: rgba(112, 122, 23, 0.568);
+}
+
+.about-me-img {
+  background: rgb(107, 124, 136);
+}
