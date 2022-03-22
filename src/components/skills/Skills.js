@@ -4,7 +4,7 @@ import { SectionTitle } from "../title/Title";
 
 export const Skills = () => {
   return (
-    <section id="Skills">
+    <section id="skills">
       <Container>
         <Row>
           <Col>
