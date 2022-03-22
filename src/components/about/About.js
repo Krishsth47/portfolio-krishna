@@ -5,8 +5,8 @@ import imgProfile from "../../assets/profile.png";
 
 export const About = () => {
   return (
-    <div>
-      <SectionTitle id="about-me" title="About Me" />
+    <section id="about-me">
+      <SectionTitle title="About Me" />
 
       <Container>
         <Row>
@@ -26,6 +26,6 @@ export const About = () => {
           </Col>
         </Row>
       </Container>
-    </div>
+    </section>
   );
 };

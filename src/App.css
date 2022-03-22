@@ -1,6 +1,8 @@
 .wrapper {
   background: linear-gradient(rgb(59, 69, 23), rgb(154, 154, 154));
   min-height: 100vh;
+
+  position: relative;
 }
 .section-title {
   font-size: 3rem;
