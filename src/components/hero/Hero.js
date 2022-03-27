@@ -8,7 +8,7 @@ import me from "../../assets/profile.png";
 export const Hero = () => {
   return (
     <div className="hero">
-      <Header />
+      {/* <Header /> */}
       <Container>
         <Row className="mt-5 pb-3">
           <Col md="5" className="text-center order-md-2 mb-5">
