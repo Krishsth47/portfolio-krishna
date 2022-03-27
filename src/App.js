@@ -1,5 +1,7 @@
 // or less ideally
 // import { Button } from "react-bootstrap";
+
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
 import { DefaultLayout } from "./components/Layout/DefaultLayout";
 import { Skills } from "./components/skills/Skills";
